@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="hello.typeconverter.formatter.FormattingConversionServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2025-02-14T14:49:55" hostname="jeonghohyeon-ui-MacBookPro.local" time="0.067">
+  <properties/>
+  <testcase name="formattingConversionService()" classname="hello.typeconverter.formatter.FormattingConversionServiceTest" time="0.067"/>
+  <system-out><![CDATA[23:49:55.727 [Test worker] INFO hello.typeconverter.converter.StringToIpPortConverter -- convert source: 127.0.0.1:8080
+23:49:55.744 [Test worker] INFO hello.typeconverter.formatter.MyNumberFormatter -- object = 1000, locale = ko_KR
+23:49:55.745 [Test worker] INFO hello.typeconverter.formatter.MyNumberFormatter -- text = 1,000, locale = ko_KR
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
